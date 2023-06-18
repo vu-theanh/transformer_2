@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='well_log_transformer',
+    name='theanh_transformer',
     version='1.0.0',
     description='A package for well_log data transformation',
     author='The Anh Vu',
