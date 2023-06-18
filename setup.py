@@ -10,8 +10,7 @@ setup(
     install_requires=[
         'numpy',
         'pandas',
-        'matplotlib',
-        'SparkSession'
+        'matplotlib'
         # Add any other dependencies here
     ],
 )
